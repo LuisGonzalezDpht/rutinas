@@ -27,9 +27,9 @@
 
 ## MARTES
 
----
-
 > Eduardo - Luis
+
+---
 
 - **Piernas**
   1. Press de Piernas
@@ -126,6 +126,8 @@
 
 > Luis
 
+---
+
 - **Pecho**
   - Press plano
     - 1x6-8; 1x8-10
@@ -145,6 +147,14 @@
   - Pájaros en polea
     - 3x10-15
 
+---
+
 ## DOMINGO
 
 > Libre
+
+---
+
+ - Tratar de no comer porquerías xD
+
+---
