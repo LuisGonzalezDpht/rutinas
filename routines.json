@@ -1,0 +1,413 @@
+[
+  {
+    "dia": "LUNES",
+    "grupo": [
+      {
+        "nombre": "Hombros",
+        "ejercicios": [
+          {
+            "nombre": "Press militar con mancuernas",
+            "nSeries": 2,
+            "series": [
+              { "serie": 1, "repeticiones": 6 },
+              { "serie": 2, "repeticiones": 8 }
+            ]
+          },
+          {
+            "nombre": "Elevaciones laterales con mancuernas",
+            "nSeries": 3,
+            "series": [
+              { "serie": 1, "repeticiones": 10 },
+              { "serie": 2, "repeticiones": 10 },
+              { "serie": 3, "repeticiones": 10 }
+            ]
+          },
+          {
+            "nombre": "Elevaciones laterales en polea",
+            "nSeries": 3,
+            "series": [
+              { "serie": 1, "repeticiones": 10 },
+              { "serie": 2, "repeticiones": 10 },
+              { "serie": 3, "repeticiones": 10 }
+            ]
+          },
+          {
+            "nombre": "Pájaros en polea",
+            "nSeries": 3,
+            "series": [
+              { "serie": 1, "repeticiones": 10 },
+              { "serie": 2, "repeticiones": 10 },
+              { "serie": 3, "repeticiones": 10 }
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Bíceps",
+        "ejercicios": [
+          {
+            "nombre": "Curl inclinado con mancuernas",
+            "nSeries": 2,
+            "series": [
+              { "serie": 1, "repeticiones": 10 },
+              { "serie": 2, "repeticiones": 10 }
+            ]
+          },
+          {
+            "nombre": "Curl predicador en máquina",
+            "nSeries": 2,
+            "series": [
+              { "serie": 1, "repeticiones": 6 },
+              { "serie": 2, "repeticiones": 8 }
+            ]
+          },
+          {
+            "nombre": "Curl martillo con mancuernas",
+            "nSeries": 2,
+            "series": [
+              { "serie": 1, "repeticiones": 12 },
+              { "serie": 2, "repeticiones": 12 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "dia": "MARTES",
+    "grupo": [
+      {
+        "nombre": "Piernas",
+        "ejercicios": [
+          {
+            "nombre": "Press de Piernas",
+            "nSeries": 2,
+            "series": [
+              { "serie": 1, "repeticiones": 6 },
+              { "serie": 2, "repeticiones": 8 }
+            ]
+          },
+          {
+            "nombre": "Extensión Quadriceps",
+            "nSeries": 3,
+            "series": [
+              { "serie": 1, "repeticiones": 10 },
+              { "serie": 2, "repeticiones": 10 },
+              { "serie": 3, "repeticiones": 10 }
+            ]
+          },
+          {
+            "nombre": "Curl Femoral",
+            "nSeries": 3,
+            "series": [
+              { "serie": 1, "repeticiones": 10 },
+              { "serie": 2, "repeticiones": 10 },
+              { "serie": 3, "repeticiones": 10 }
+            ]
+          },
+          {
+            "nombre": "Gemelo",
+            "nSeries": 4,
+            "series": [
+              { "serie": 1, "repeticiones": 10 },
+              { "serie": 2, "repeticiones": 10 },
+              { "serie": 3, "repeticiones": 10 },
+              { "serie": 4, "repeticiones": 10 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "dia": "MIERCOLES",
+    "grupo": [
+      {
+        "nombre": "Espalda",
+        "ejercicios": [
+          {
+            "nombre": "Jalón al pecho en máquina (Agarre abierto)",
+            "nSeries": 3,
+            "series": [
+              { "serie": 1, "repeticiones": 8 },
+              { "serie": 2, "repeticiones": 8 },
+              { "serie": 3, "repeticiones": 8 }
+            ]
+          },
+          {
+            "nombre": "Remo en máquina (Agarre cerrado)",
+            "nSeries": 3,
+            "series": [
+              { "serie": 1, "repeticiones": 8 },
+              { "serie": 2, "repeticiones": 10 },
+              { "serie": 3, "repeticiones": 10 }
+            ]
+          },
+          {
+            "nombre": "Pull-over en polea",
+            "nSeries": 3,
+            "series": [
+              { "serie": 1, "repeticiones": 10 },
+              { "serie": 2, "repeticiones": 10 },
+              { "serie": 3, "repeticiones": 10 }
+            ]
+          },
+          {
+            "nombre": "Remo con mancuernas",
+            "nSeries": 2,
+            "series": [
+              { "serie": 1, "repeticiones": 10 },
+              { "serie": 2, "repeticiones": 10 }
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Tríceps",
+        "ejercicios": [
+          {
+            "nombre": "Extensión de tríceps unilateral",
+            "nSeries": 3,
+            "series": [
+              { "serie": 1, "repeticiones": 10 },
+              { "serie": 2, "repeticiones": 10 },
+              { "serie": 3, "repeticiones": 10 }
+            ]
+          },
+          {
+            "nombre": "Extensión de tríceps por detrás de la cabeza (o Katana unilateral)",
+            "nSeries": 3,
+            "series": [
+              { "serie": 1, "repeticiones": 10 },
+              { "serie": 2, "repeticiones": 10 },
+              { "serie": 3, "repeticiones": 10 }
+            ]
+          },
+          {
+            "nombre": "Press francés con mancuernas (o barra)",
+            "nSeries": 2,
+            "series": [
+              { "serie": 1, "repeticiones": 6 },
+              { "serie": 2, "repeticiones": 8 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "dia": "JUEVES",
+    "grupo": [
+      {
+        "nombre": "Pecho",
+        "ejercicios": [
+          {
+            "nombre": "Press plano",
+            "nSeries": 2,
+            "series": [
+              { "serie": 1, "repeticiones": 6 },
+              { "serie": 2, "repeticiones": 8 }
+            ]
+          },
+          {
+            "nombre": "Press inclinado",
+            "nSeries": 3,
+            "series": [
+              { "serie": 1, "repeticiones": 6 },
+              { "serie": 2, "repeticiones": 8 },
+              { "serie": 3, "repeticiones": 8 }
+            ]
+          },
+          {
+            "nombre": "Cruces en polea de arriba a abajo",
+            "nSeries": 3,
+            "series": [
+              { "serie": 1, "repeticiones": 10 },
+              { "serie": 2, "repeticiones": 10 },
+              { "serie": 3, "repeticiones": 10 }
+            ]
+          },
+          {
+            "nombre": "Peck deck",
+            "nSeries": 2,
+            "series": [
+              { "serie": 1, "repeticiones": 10 },
+              { "serie": 2, "repeticiones": 10 }
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Bíceps",
+        "ejercicios": [
+          {
+            "nombre": "Curl inclinado con mancuernas",
+            "nSeries": 2,
+            "series": [
+              { "serie": 1, "repeticiones": 10 },
+              { "serie": 2, "repeticiones": 10 }
+            ]
+          },
+          {
+            "nombre": "Curl predicador en máquina",
+            "nSeries": 2,
+            "series": [
+              { "serie": 1, "repeticiones": 6 },
+              { "serie": 2, "repeticiones": 8 }
+            ]
+          },
+          {
+            "nombre": "Curl martillo con mancuernas",
+            "nSeries": 2,
+            "series": [
+              { "serie": 1, "repeticiones": 12 },
+              { "serie": 2, "repeticiones": 12 }
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Abdominales",
+        "ejercicios": []
+      }
+    ]
+  },
+  {
+    "dia": "VIERNES",
+    "grupo": [
+      {
+        "nombre": "Piernas",
+        "ejercicios": [
+          {
+            "nombre": "Sentadilla libre",
+            "nSeries": 3,
+            "series": [
+              { "serie": 1, "repeticiones": 6 },
+              { "serie": 2, "repeticiones": 8 },
+              { "serie": 3, "repeticiones": 8 }
+            ]
+          },
+          {
+            "nombre": "Peso Muerto",
+            "nSeries": 2,
+            "series": [
+              { "serie": 1, "repeticiones": 6 },
+              { "serie": 2, "repeticiones": 8 }
+            ]
+          },
+          {
+            "nombre": "Hack",
+            "nSeries": 3,
+            "series": [
+              { "serie": 1, "repeticiones": 10 },
+              { "serie": 2, "repeticiones": 10 },
+              { "serie": 3, "repeticiones": 10 }
+            ]
+          },
+          {
+            "nombre": "Abductores",
+            "nSeries": 3,
+            "series": [
+              { "serie": 1, "repeticiones": 10 },
+              { "serie": 2, "repeticiones": 10 },
+              { "serie": 3, "repeticiones": 10 }
+            ]
+          },
+          {
+            "nombre": "Aductores",
+            "nSeries": 3,
+            "series": [
+              { "serie": 1, "repeticiones": 10 },
+              { "serie": 2, "repeticiones": 10 },
+              { "serie": 3, "repeticiones": 10 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "dia": "SABADO",
+    "grupo": [
+      {
+        "nombre": "Pecho",
+        "ejercicios": [
+          {
+            "nombre": "Press plano",
+            "nSeries": 2,
+            "series": [
+              { "serie": 1, "repeticiones": 6 },
+              { "serie": 2, "repeticiones": 8 }
+            ]
+          },
+          {
+            "nombre": "Press inclinado",
+            "nSeries": 3,
+            "series": [
+              { "serie": 1, "repeticiones": 6 },
+              { "serie": 2, "repeticiones": 8 },
+              { "serie": 3, "repeticiones": 8 }
+            ]
+          },
+          {
+            "nombre": "Cruces en polea de arriba a abajo",
+            "nSeries": 3,
+            "series": [
+              { "serie": 1, "repeticiones": 10 },
+              { "serie": 2, "repeticiones": 10 },
+              { "serie": 3, "repeticiones": 10 }
+            ]
+          },
+          {
+            "nombre": "Peck deck",
+            "nSeries": 2,
+            "series": [
+              { "serie": 1, "repeticiones": 10 },
+              { "serie": 2, "repeticiones": 10 }
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Hombros",
+        "ejercicios": [
+          {
+            "nombre": "Press militar con mancuernas",
+            "nSeries": 2,
+            "series": [
+              { "serie": 1, "repeticiones": 6 },
+              { "serie": 2, "repeticiones": 8 }
+            ]
+          },
+          {
+            "nombre": "Elevaciones laterales con mancuernas",
+            "nSeries": 3,
+            "series": [
+              { "serie": 1, "repeticiones": 10 },
+              { "serie": 2, "repeticiones": 10 },
+              { "serie": 3, "repeticiones": 10 }
+            ]
+          },
+          {
+            "nombre": "Elevaciones laterales en polea",
+            "nSeries": 3,
+            "series": [
+              { "serie": 1, "repeticiones": 10 },
+              { "serie": 2, "repeticiones": 10 },
+              { "serie": 3, "repeticiones": 10 }
+            ]
+          },
+          {
+            "nombre": "Pájaros en polea",
+            "nSeries": 3,
+            "series": [
+              { "serie": 1, "repeticiones": 10 },
+              { "serie": 2, "repeticiones": 10 },
+              { "serie": 3, "repeticiones": 10 }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
