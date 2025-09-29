@@ -2,28 +2,14 @@
 
 ## LUNES
 
-> Eduardo
+> Libre
 
 ---
 
-- **Hombros**
-  - Press militar con mancuernas
-    - 1x6-8; 1x8-10
-  - Elevaciones laterales con mancuernas
-    - 3x10-15
-  - Elevaciones laterales en polea
-    - 3x10-15
-  - Pájaros en polea
-    - 3x10-15
-- **Bíceps**
-  - Curl inclinado con mancuernas
-    - 2x10-12
-  - Curl predicador en máquina
-    - 1x6-8; 1x8-10
-  - Curl martillo con mancuernas
-    - 2x12
+ - Tratar de no comer porquerías xD
 
 ---
+
 
 ## MARTES
 
@@ -77,9 +63,27 @@
 | Pecho       | **E**         |
 | Abdominales | **L** - **E** |
 | Biceps      | **L**         |
+| Hombros     | **E**         |
+| Bíceps      | **E**         |
 
 ---
 
+- **Hombros**
+  - Press militar con mancuernas
+    - 1x6-8; 1x8-10
+  - Elevaciones laterales con mancuernas
+    - 3x10-15
+  - Elevaciones laterales en polea
+    - 3x10-15
+  - Pájaros en polea
+    - 3x10-15
+- **Bíceps**
+  - Curl inclinado con mancuernas
+    - 2x10-12
+  - Curl predicador en máquina
+    - 1x6-8; 1x8-10
+  - Curl martillo con mancuernas
+    - 2x12
 - **Pecho** (E)
   - Press plano
     - 1x6-8; 1x8-10
