@@ -1,77 +1,7 @@
 [
   {
     "dia": "LUNES",
-    "grupo": [
-      {
-        "nombre": "Hombros",
-        "ejercicios": [
-          {
-            "nombre": "Press militar con mancuernas",
-            "nSeries": 2,
-            "series": [
-              { "serie": 1, "repeticiones": 6 },
-              { "serie": 2, "repeticiones": 8 }
-            ]
-          },
-          {
-            "nombre": "Elevaciones laterales con mancuernas",
-            "nSeries": 3,
-            "series": [
-              { "serie": 1, "repeticiones": 10 },
-              { "serie": 2, "repeticiones": 10 },
-              { "serie": 3, "repeticiones": 10 }
-            ]
-          },
-          {
-            "nombre": "Elevaciones laterales en polea",
-            "nSeries": 3,
-            "series": [
-              { "serie": 1, "repeticiones": 10 },
-              { "serie": 2, "repeticiones": 10 },
-              { "serie": 3, "repeticiones": 10 }
-            ]
-          },
-          {
-            "nombre": "Pájaros en polea",
-            "nSeries": 3,
-            "series": [
-              { "serie": 1, "repeticiones": 10 },
-              { "serie": 2, "repeticiones": 10 },
-              { "serie": 3, "repeticiones": 10 }
-            ]
-          }
-        ]
-      },
-      {
-        "nombre": "Bíceps",
-        "ejercicios": [
-          {
-            "nombre": "Curl inclinado con mancuernas",
-            "nSeries": 2,
-            "series": [
-              { "serie": 1, "repeticiones": 10 },
-              { "serie": 2, "repeticiones": 10 }
-            ]
-          },
-          {
-            "nombre": "Curl predicador en máquina",
-            "nSeries": 2,
-            "series": [
-              { "serie": 1, "repeticiones": 6 },
-              { "serie": 2, "repeticiones": 8 }
-            ]
-          },
-          {
-            "nombre": "Curl martillo con mancuernas",
-            "nSeries": 2,
-            "series": [
-              { "serie": 1, "repeticiones": 12 },
-              { "serie": 2, "repeticiones": 12 }
-            ]
-          }
-        ]
-      }
-    ]
+    "grupo": []
   },
   {
     "dia": "MARTES",
@@ -269,6 +199,75 @@
       {
         "nombre": "Abdominales",
         "ejercicios": []
+      },
+      {
+        "nombre": "Hombros",
+        "ejercicios": [
+          {
+            "nombre": "Press militar con mancuernas",
+            "nSeries": 2,
+            "series": [
+              { "serie": 1, "repeticiones": 6 },
+              { "serie": 2, "repeticiones": 8 }
+            ]
+          },
+          {
+            "nombre": "Elevaciones laterales con mancuernas",
+            "nSeries": 3,
+            "series": [
+              { "serie": 1, "repeticiones": 10 },
+              { "serie": 2, "repeticiones": 10 },
+              { "serie": 3, "repeticiones": 10 }
+            ]
+          },
+          {
+            "nombre": "Elevaciones laterales en polea",
+            "nSeries": 3,
+            "series": [
+              { "serie": 1, "repeticiones": 10 },
+              { "serie": 2, "repeticiones": 10 },
+              { "serie": 3, "repeticiones": 10 }
+            ]
+          },
+          {
+            "nombre": "Pájaros en polea",
+            "nSeries": 3,
+            "series": [
+              { "serie": 1, "repeticiones": 10 },
+              { "serie": 2, "repeticiones": 10 },
+              { "serie": 3, "repeticiones": 10 }
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Bíceps",
+        "ejercicios": [
+          {
+            "nombre": "Curl inclinado con mancuernas",
+            "nSeries": 2,
+            "series": [
+              { "serie": 1, "repeticiones": 10 },
+              { "serie": 2, "repeticiones": 10 }
+            ]
+          },
+          {
+            "nombre": "Curl predicador en máquina",
+            "nSeries": 2,
+            "series": [
+              { "serie": 1, "repeticiones": 6 },
+              { "serie": 2, "repeticiones": 8 }
+            ]
+          },
+          {
+            "nombre": "Curl martillo con mancuernas",
+            "nSeries": 2,
+            "series": [
+              { "serie": 1, "repeticiones": 12 },
+              { "serie": 2, "repeticiones": 12 }
+            ]
+          }
+        ]
       }
     ]
   },
